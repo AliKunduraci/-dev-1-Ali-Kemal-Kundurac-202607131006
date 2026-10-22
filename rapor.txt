@@ -1,0 +1,19 @@
+Ödev 1 raporu
+Ad Soyad:Ali Kemal Kunduracı
+Öğrenci No:202607131006
+Program:Yapay Zeka Operatörlüğü  
+Veritabanı:`llm\\\\\\\_ops`  
+Tarih:23.10.2026
+1.Ne yaptım?
+--İlk bölümde kodu çalıtırmadan önce kodu izleyerek kendi tablomu oluşturdum sonrasında çalıştırarak karşılaştırdım.
+Diğer soruda en uzun seriyi bulmak için önce kendi kodumu yazdım daha sonrasında bunun Pythondaki karşılığını yazdım
+Son sorudada if , for ve bir sözlük kullanarak grupladım.
+--İkinci bölümde haftalık ders notlarından bakarak ve yapay zekadan destek alarak kendi anladığım şekilde yaptım.
+2.Zorlandığım yerler
+--2.bölümdeki sorular
+çözüm:Github üstünden haftalık ders notlarından ve 3.soruda yapay zekadan destek alarak.
+3.Yapay Zeka beyanı: Claude kullandım.Kullandığım yerler ödevde benden istenen konuları ve bazı sorulardaki kavramların anlamı.
+Doğrularkende yardım aldığım tanımı haftalık notlarda atılan tanımlarla karşılaştırdım.
+4.Kendimi değerlendirmem
+Son güne bıraktığımdan dolayı yarım yamalak yapabildim ama bölüm 3 ve 4 teki sorulara bakamamın sebebi zamandan ziyade soruları açamamdı.
+

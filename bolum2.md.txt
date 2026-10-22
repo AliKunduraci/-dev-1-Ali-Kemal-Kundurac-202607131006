@@ -1,0 +1,17 @@
+Bölüm 2: Veritabanı Kavramları
+
+**Ad Soyad:** Ali Kemal Kunduracı
+**Öğrenci No:** 202607131006
+
+1.Bir kurum verilerini Excel dosyalarında tutuyor. Hangi üç somut sorunla karşılaşır?
+--Aynı bilginin birden fazla yerde durması veri tekrarı etmesi.Dosyayı açabilen herkesin herşeyi görmesi şifreleme veya kısıtlama yapılmaması.
+Aynı anda dosyayı değiştirip kaydeden sayısı 1 den fazla olduğunda sadece son kişinin kaydı kabul görür.
+Çözümü:Her bilginin tek bi yerde tutulması.Herkesin aynı anda çalışıp diğerinin çalışmasını etkilemeden kaydedebilmesi.Rol ve yetkiler kullanabilmesi.
+2.Birincil anahtar (primary key) ne işe yarar? Öğrenci numarası iyi bir birincil anahtar mıdır, ad soyad neden değildir?
+--Birincil anahtar eşsiz ve tek olan anahtardır ayrım yapmaya yarar.Öğrenci numarası iyi bir birincil anahtardır sadece 1 kişiye aittir.
+Ad soyad değildir çünkü birden fazla aynı ad soyada sahip insan olabilir ama birden fazla aynı öğrenci numarasına sahip insan olamaz.
+3.Veritabanı yönetim sistemi (DBMS) ile veritabanının farkı nedir? PostgreSQL bunlardan hangisi?
+--Veritabanı dezenli bir şekilde saklamaya yararken veritabanı yönetim sistemi sorgulamaya güncellemeye ve verileri oluşturmaya yarayan bi yazılımdır.
+SQL de bir veritabanı yönetim sistemi (DBMS) dir.
+4.Aynı anda iki kişi aynı kaydı değiştirmeye kalkarsa ne olur?
+--Eğer doğru düzeltilmezse veri bozulur.Veri tabanı yönetim sistemi (DBMS) bunu düzeltir ve düzenler.
